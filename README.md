@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Bootstrap screenshot](https://github.com/hafiz6512/HTML-Bootstrap-5-Boilerplate/blob/master/screenshot.png)
+![Bootstrap screenshot](https://github.com/hafiz6512/HTML-Bootstrap-5-Boilerplate/blob/main/bootstrap-5-screenshot.png)
 
 
 ## About
